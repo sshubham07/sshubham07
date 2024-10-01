@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**sshubham07/sshubham07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Shubham, a backend developer exploring Django, FastAPI, and other cool technologies. I love building projects that solve real-world problems.
 
-Here are some ideas to get you started:
+- 🌱 Currently learning advanced Django concepts and RESTful API development.
+- 💻 Interested in backend frameworks like Django, FastAPI, and Flask.
+- ✍️ Writing about my tech journey and adventures, like my recent [trekking trip](link-to-article).
+  
+### Technologies & Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sshubham07&show_icons=true&theme=dark)
+
+### 🚀 Featured Projects
+- [**Project Name**](link): Brief description.
+- [**Another Project**](link): Brief description.
+
+Feel free to connect or reach out!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](link-to-linkedin)
