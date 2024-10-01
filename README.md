@@ -8,6 +8,7 @@ I'm Shubham, a backend developer exploring Django, FastAPI, and other cool techn
   
 ### Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
@@ -18,8 +19,8 @@ I'm Shubham, a backend developer exploring Django, FastAPI, and other cool techn
 - [**The MidNight Times**](https://github.com/sshubham07/the-midnight-times): A Django-based web application that fetches and displays news articles from various sources based on user search queries.
 
 ### Competitive Programming Profiles
-- [LeetCode](https://leetcode.com/u/shubhamkumargupta2_gmail_com/)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/user/shubhamkumargupta2/)
+- [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/shubhamkumargupta2_gmail_com/)
+- [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/shubhamkumargupta2/)
 
 Feel free to connect or reach out!
 
