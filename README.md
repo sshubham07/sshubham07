@@ -21,6 +21,7 @@ I'm Shubham, a backend developer exploring Django, FastAPI, and other cool techn
 ### Competitive Programming Profiles
 - [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/shubhamkumargupta2_gmail_com/)
 - [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/shubhamkumargupta2/)
+- [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/shubhamkumargup2)
 
 Feel free to connect or reach out!
 
