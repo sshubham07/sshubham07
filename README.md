@@ -4,6 +4,7 @@ I'm Shubham, a backend developer exploring Django, FastAPI, and other cool techn
 
 - 🌱 Currently learning advanced Django concepts and RESTful API development.
 - 💻 Interested in backend frameworks like Django, FastAPI, and Flask.
+- 🧩 Interested in data structures and algorithms (DSA) and have solved 1000+ DSA problems.
   
 ### Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -13,8 +14,8 @@ I'm Shubham, a backend developer exploring Django, FastAPI, and other cool techn
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
 ### 🚀 Featured Projects
-- [**Project Name**](link): Brief description.
-- [**Another Project**](link): Brief description.
+- [**StudyBuddy**](https://github.com/sshubham07/StudyBud): A dynamic website, empowering users to curate and host discussion rooms tailored to specific topics
+- [**The MidNight Times**](https://github.com/sshubham07/the-midnight-times): A Django-based web application that fetches and displays news articles from various sources based on user search queries.
 
 ### Competitive Programming Profiles
 - [LeetCode](https://leetcode.com/u/shubhamkumargupta2_gmail_com/)
