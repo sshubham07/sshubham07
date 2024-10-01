@@ -5,6 +5,7 @@ I'm Shubham, a backend developer at Codvo.ai with 1.5 years of experience in Dja
 - 🌱 Currently learning advanced Django concepts and RESTful API development.
 - 💻 Interested in backend frameworks like Django, FastAPI, and Flask.
 - 🧩 Interested in data structures and algorithms (DSA) and have solved 1000+ DSA problems.
+- 📫 You can reach out to me at [shubhamkumargupta2@gmail.com]
   
 ### Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
