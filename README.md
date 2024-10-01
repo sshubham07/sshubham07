@@ -14,6 +14,10 @@ I'm Shubham, a backend developer at Codvo.ai with 1.5 years of experience in Dja
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
+### 📄 Resume
+You can view my resume [here](https://drive.google.com/file/d/1EkrAcT0zCee0D-ZRDStp88wLAee1oM0K/view?usp=sharing).
+
+
 ### 🚀 Featured Projects
 - [**StudyBuddy**](https://github.com/sshubham07/StudyBud): A dynamic website, empowering users to curate and host discussion rooms tailored to specific topics
 - [**The MidNight Times**](https://github.com/sshubham07/the-midnight-times): A Django-based web application that fetches and displays news articles from various sources based on user search queries.
