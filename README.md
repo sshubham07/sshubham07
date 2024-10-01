@@ -13,6 +13,10 @@ I'm Shubham, a backend developer at Codvo.ai with 1.5 years of experience in Dja
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+![pytest](https://img.shields.io/badge/-pytest-0A9EDC?logo=pytest&logoColor=white)
 
 ### 📄 Resume
 You can view my resume [here](https://drive.google.com/file/d/1EkrAcT0zCee0D-ZRDStp88wLAee1oM0K/view?usp=sharing).
