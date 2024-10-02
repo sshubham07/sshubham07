@@ -18,6 +18,11 @@ I'm Shubham, a backend developer at Codvo.ai with 1.5 years of experience in Dja
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
 ![pytest](https://img.shields.io/badge/-pytest-0A9EDC?logo=pytest&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&labelColor=E34F26&color=4B8BBE&label=HTML5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&labelColor=1572B6&color=4B8BBE&label=CSS3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&labelColor=7952B3&color=4B8BBE&label=Bootstrap)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&labelColor=336791&color=4B8BBE&label=PostgreSQL)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&labelColor=47A248&color=4B8BBE&label=MongoDB)
 
 ### 📄 Resume
 You can view my resume [here](https://drive.google.com/file/d/1EkrAcT0zCee0D-ZRDStp88wLAee1oM0K/view?usp=sharing).
