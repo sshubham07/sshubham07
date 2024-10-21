@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-I'm Shubham, a backend developer at Codvo.ai with 1.5 years of experience in Django, Flask, and FastAPI, exploring other cool technologies. I love building projects that solve real-world problems.
+I'm Shubham, a backend developer at Codvo.ai with 2 years of experience in Django, Flask, and FastAPI, exploring other cool technologies. I love building projects that solve real-world problems.
 
 - 🌱 Currently learning advanced Django concepts and RESTful API development.
 - 💻 Interested in backend frameworks like Django, FastAPI, and Flask.
